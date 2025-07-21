@@ -7,7 +7,6 @@ A robust and scalable Task Management Backend system built using **Spring Boot**
 
 ## 🚀 Features
 
-- 🔐 Secure APIs (extendable to JWT Authentication)
 - 🗂️ Full CRUD operations for Tasks
 - 📆 Task due date tracking
 - 📌 Task status management: `Pending`, `Completed`, etc.
@@ -90,6 +89,8 @@ src
 ## 📸 Screenshots / Demo (Optional)
 
 _Add screenshots or Postman results here if available_
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d58b9af1-5345-4a34-bf0c-acfe4cd7e0d5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9430b187-4d9e-414c-964b-e09845cada6c" />
 
 ---
 
