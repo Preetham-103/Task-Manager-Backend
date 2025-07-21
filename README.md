@@ -86,7 +86,7 @@ src
 
 ---
 
-## 📸 Screenshots / Demo (Optional)
+## 📸 Screenshots
 
 _Add screenshots or Postman results here if available_
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d58b9af1-5345-4a34-bf0c-acfe4cd7e0d5" />
